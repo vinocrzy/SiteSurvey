@@ -1,5 +1,5 @@
 # SiteSurvey
- Civil Site Surver Entry application. I created the whole application in AngularJs and the backend i use php rest api to perform the CURD operation on the db in Database i use the mySQL db for data storage
+ Civil Site Survey Entry application. I created the whole application in AngularJs and the backend I use PHP rest API to perform the CURD operation on the DB in Database I use the MySQL DB for data storage
  
  ## Frontend 
  AngularJS
